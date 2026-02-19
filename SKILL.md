@@ -3,8 +3,9 @@ name: ocean-drop-reframe
 description: Expand someone's sense of self from small and separate to vast and connected, shifting from lack consciousness to wholeness consciousness.
 license: MIT
 metadata:
+  version: 1.0.4595
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - ocean-drop-reframe
